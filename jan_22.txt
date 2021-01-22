@@ -1,0 +1,13 @@
+22-01-2021
+==========
+week-9 lecture-9 FLASK
+-----------------------
+1.web server-a program that listens for connections and requests, and responds with web pages or other resources.
+2.Flask-is a framework.
+3.Design pattern-way that our program and code is organized.
+4.MVC- Model–view–controller is a design pattern.
+     controller is our logic and code that manages our application Python code.
+     view is the user interface, like the HTML and CSS that the user will see and interact with.
+     model is our application’s data, such as a SQL database or CSV file.
+5.Sessions-how web servers remembers information about each user.
+6.Cookies-small pieces of data from a web server.
