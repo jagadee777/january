@@ -1,0 +1,26 @@
+25/01/2021
+==========
+week 10 lecture 10 - Ethics
+============================
+Ethics
+-------
+We might think of ethics as whether we should do something, or how we go about doing it, even when we have the ability to.
+
+Quiz show - some questions  
+
+
+Artificial Intelligence
+------------------------
+1.Introduction:
+	Artificial intelligence can be described as programming our computers to behave intelligently, rationally, or like humans.
+2.Decision-Making:
+	We might want to train a computer to make a decision well.
+3.Search:
+	Depth-first search
+	Breadth-first search
+4.Reinforcement Learning
+	One type of "machine learning", where a computer can essentially learn from its experiences, is called reinforcement learning.
+5.Neural Networks:
+	A neural network is a collection of neurons, and we can simulate them digitally.
+	Deep learning refers to the use of these neural networks.
+	
