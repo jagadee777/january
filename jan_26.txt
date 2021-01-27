@@ -1,0 +1,11 @@
+26/01/2021
+===========
+1.pyhton decorators
+2.multi-chaining decorators
+3.lambda functions
+4.types of lambda functions
+	i.filter function
+	ii.map functions
+	iii.reduce functions
+
+5.leetcode programs
