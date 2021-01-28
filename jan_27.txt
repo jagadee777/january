@@ -1,0 +1,11 @@
+27/01/2021
+==========
+leet code programs
+
+python oops concets
+--------------------
+class
+object
+inheritance (single level,multilevel and multiple inheritances)
+encapsulation
+polymorphism 
