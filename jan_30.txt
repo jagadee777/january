@@ -1,0 +1,15 @@
+30/01/2021
+==========
+types of variables
+------------------
+1.instance variables
+2.static variables
+3.local variables
+
+types of methods
+----------------
+1.instance methods
+2.static methods
+3.class methods
+
+some leetcode challenges
